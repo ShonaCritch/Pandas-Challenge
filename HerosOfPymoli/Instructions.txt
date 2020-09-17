@@ -1,37 +1,38 @@
 ### Player Count
 
-# Total Number of Players
+# Total Number of Players(done)
 
 ### Purchasing Analysis (Total)
 
-* Number of Unique Items
-* Average Purchase Price
-* Total Number of Purchases
-* Total Revenue
+* Number of Unique Items (done)
+* Average Purchase Price(done)
+* Total Number of Purchases(done)
+* Total Revenue(done)
 
 ### Gender Demographics
 
-* Percentage and Count of Male Players
-* Percentage and Count of Female Players
-* Percentage and Count of Other / Non-Disclosed
+* Percentage and Count of Male Players (done)
+* Percentage and Count of Female Players (done)
+* Percentage and Count of Other / Non-Disclosed (done)
 
 ### Purchasing Analysis (Gender)
 
-* The below each broken by gender
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-  * Average Purchase Total per Person by Gender
+* The below each broken by gender (done)
+  * Purchase Count (done)
+  * Average Purchase Price (done)
+  * Total Purchase Value (done)
+  * Average Purchase Total per Person by Gender (done)
 
-### Age Demographics
+### Age Demographics (DONE)
 
 * The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
+1-9, 10-14, 15-19, 20-24, 25-29, 30-34, 35-39, 40-44, 45+
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
 
-### Top Spenders
+### Top Spenders (DONE)
 
 * Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
   * SN
@@ -39,7 +40,7 @@
   * Average Purchase Price
   * Total Purchase Value
 
-### Most Popular Items
+### Most Popular Items (DONE)
 
 * Identify the 5 most popular items by purchase count, then list (in a table):
   * Item ID
@@ -48,7 +49,7 @@
   * Item Price
   * Total Purchase Value
 
-### Most Profitable Items
+### Most Profitable Items (DONE)
 
 * Identify the 5 most profitable items by total purchase value, then list (in a table):
   * Item ID
